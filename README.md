@@ -19,7 +19,7 @@ Related code from the course in Turbulence Modelling attended during the M.Sc. i
 ## IMPORTANT
 The engines are currently set to store data from the _Medium_, _Coarse_, and _Very Coarse_ grids. Therefore, in order to introduce the information of the fourth one, namely the _Fine_ grid, brief modifications must be made to the code. However, the code is written in a way that such modifications can be performed easily.
 
-Make sure that the data introduced from fluent follows the format of the _DummyText.txt" files. That is four columns of information separated by commas (,). Otherwise, changes must have to be made to accommodate other format inputs.
+Make sure that the data introduced from fluent follows the format of the "DummyText.txt" files. That is four columns of information separated by commas (,). Otherwise, changes must have to be made to accommodate other format inputs.
 
 ## DISCLAIMER	
 The engines contained within this repository were created by Pedro Muñoz Hoyos as part of the assignment on Turbulence Modelling at Cranfield University. **The usage of these scripts is open to any student who desires to implement it in its assignment**. Were they to be used, the author kindly asks for this GitHub repository to be referenced in their report.
