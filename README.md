@@ -24,5 +24,3 @@ Make sure that the data introduced from fluent follows the format of the "DummyT
 ## DISCLAIMER	
 The engines contained within this repository were created by Pedro Muñoz Hoyos as part of the assignment on Turbulence Modelling at Cranfield University. **The usage of these scripts is open to any student who desires to implement it in its assignment**. Were they to be used, the author kindly asks for this GitHub repository to be referenced in their report.
  
-## CONTACT
-Pedro.MunozHoyos.950@cranfield.ac.uk
